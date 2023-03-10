@@ -1,3 +1,7 @@
 print ("Christalyn O. Alano")
 print ("Sihi, Buenavista, Marinduque")
 print ("December 9, 2002")
+print ("Marinduque State College")
+print ("Bachelor of Science in Information and Technology")
+print ("2nd Year")
+print ("Section B")
